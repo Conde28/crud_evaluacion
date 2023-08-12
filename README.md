@@ -18,7 +18,7 @@ Un simple sistema CRUD (Create, Read, Update, Delete) para gestionar usuarios co
 ## Instalación
 
 1. Clonar este repositorio:
-     git clone https://github.com/Conde28/crud_evaluacion
+     git clone https://github.com/Conde28/crud_evaluacion/tree/master
 
 
 2. Navegar a la carpeta del proyecto:
