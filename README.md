@@ -18,7 +18,7 @@ Un simple sistema CRUD (Create, Read, Update, Delete) para gestionar usuarios co
 ## Instalación
 
 1. Clonar este repositorio:
-     git clone https://github.com/tuusuario/sistema-crud.git
+     git clone https://github.com/conde28/sistema-crud.git
 
 
 2. Navegar a la carpeta del proyecto:
